@@ -1,5 +1,3 @@
-PS C:\Users\mngok> cd "c:\Users\mngok\OneDrive\Documents\Lab - Program Files\OOP - Lab\ex04\" ; if ($?) { javac Shapes.java } ; if ($?) { java Shapes }
-
 Enter values : 
 7
 8
