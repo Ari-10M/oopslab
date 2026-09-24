@@ -1,16 +1,14 @@
-PS C:\Users\mngok> cd "c:\Users\mngok\OneDrive\Documents\Lab - Program Files\OOP - Lab\ex07\" ; if ($?) { javac ThreadProgram.java } ; if ($?) { java ThreadProgram }
+Main Thread and Generated Number is 73
+New Thread 73 is ODD and Cube of 73 is: 389017
 
-Main Thread and Generated Number is 96
-New Thread 96 is EVEN and Square of 96 is: 9216
-                                                  
-Main Thread and Generated Number is 70
-New Thread 70 is EVEN and Square of 70 is: 4900
-                                                  
-Main Thread and Generated Number is 22
-New Thread 22 is EVEN and Square of 22 is: 484
-                                                  
-Main Thread and Generated Number is 26
-New Thread 26 is EVEN and Square of 26 is: 676
-                                                  
-Main Thread and Generated Number is 98
-New Thread 98 is EVEN and Square of 98 is: 9604
+Main Thread and Generated Number is 42
+New Thread 42 is EVEN and Square of 42 is: 1764
+
+Main Thread and Generated Number is 11
+New Thread 11 is ODD and Cube of 11 is: 1331
+
+Main Thread and Generated Number is 3
+New Thread 3 is ODD and Cube of 3 is: 27
+
+Main Thread and Generated Number is 56
+New Thread 56 is EVEN and Square of 56 is: 3136
